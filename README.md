@@ -1,6 +1,6 @@
 #依据yolov8建筑面裂痕检测项目
 
-![检测结果](“./result/val_batch0_pred.jpg”)
+![检测结果](./result/val_batch0_pred.jpg)
 
 #项目简介
 
